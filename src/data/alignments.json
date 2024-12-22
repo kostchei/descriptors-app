@@ -1,0 +1,27 @@
+{
+    "bastionLeaders": {
+      "good": 67,
+      "neutral": 28,
+      "evil": 5,
+      "lawful": 67,
+      "chaotic": 5,
+      "neutralEthic": 28
+    },
+    "questGiversFriendly": {
+      "good": 33,
+      "neutral": 33,
+      "evil": 34,
+      "lawful": 34,
+      "chaotic": 33,
+      "neutralEthic": 33
+    },
+    "enemiesEncounters": {
+      "good": 5,
+      "neutral": 28,
+      "evil": 67,
+      "lawful": 0,
+      "chaotic": 0,
+      "neutralEthic": 0
+    }
+  }
+  

@@ -1,0 +1,12 @@
+{
+    "combat": ["Fighter", "Barbarian"],
+    "stealth": ["Rogue", "Courtier"],
+    "knowledge": ["Scholar", "Warden"],
+    "spellcasting": {
+      "int": ["Wizard Abjurer", "Wizard Evoker"],
+      "wis": ["Cleric", "Druid"],
+      "cha": ["Sorcerer", "Bard", "Warlock"],
+      "multi": ["Arcane Trickster", "Eldritch Knight"] 
+    }
+  }
+  

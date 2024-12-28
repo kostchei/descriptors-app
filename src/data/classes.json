@@ -1,12 +1,74 @@
 {
-    "combat": ["Fighter", "Barbarian"],
-    "stealth": ["Rogue", "Courtier"],
-    "knowledge": ["Scholar", "Warden"],
-    "spellcasting": {
-      "int": ["Wizard Abjurer", "Wizard Evoker"],
-      "wis": ["Cleric", "Druid"],
-      "cha": ["Sorcerer", "Bard", "Warlock"],
-      "multi": ["Arcane Trickster", "Eldritch Knight"] 
-    }
+  "combat": [
+    "Fighter Battle Master",
+    "Fighter Banneret",
+    "Fighter Cavalier",
+    "Fighter Champion",
+    "Fighter Scofflaw",
+    "Fighter Sharpshooter",
+    "Fighter Weaponmaster",
+    "Barbarian Berserker",
+    "Barbarian Juggernaut",
+    "Barbarian Slayer-Foehammer",
+    "Barbarian Slayer-The Rider",
+    "Captain Thane",
+    "Captain Chieftain"
+  ],
+  "stealth": [
+    "Rogue Assassin",
+    "Rogue Inquisitive",
+    "Rogue Mastermind",
+    "Rogue Scout",
+    "Rogue Swashbuckler",
+    "Rogue Thief",
+    "Rogue Treasure Hunter-Agent",
+    "Rogue Treasure Hunter-Burglar",
+    "Courtier Diplomat",
+    "Courtier Investigator"
+  ],
+  "knowledge": [
+    "Scholar School of Lore",
+    "Scholar School of Healing",
+    "Warden Bounder",
+    "Warden Counsellor",
+    "Warden Herald or Messenger",
+    "Wanderer Hunter of Beasts",
+    "Wanderer Hunter of Shadows"
+  ],
+  "spellcasting": {
+    "int": [
+      "Wizard Abjurer",
+      "Wizard Evoker",
+      "Wizard Illusionist",
+      "Wizard Diviner"
+    ],
+    "wis": [
+      "Cleric Life",
+      "Cleric Light",
+      "Cleric Trickery",
+      "Cleric War",
+      "Druid of Land",
+      "Druid of Moon"
+    ],
+    "cha": [
+      "Sorcerer Aberrant",
+      "Sorcerer Draconic",
+      "Sorcerer Wild Magic",
+      "Bard Lore",
+      "Bard Valor",
+      "Bard Glamour",
+      "Warlock Archfey",
+      "Warlock Celestial",
+      "Warlock Great Old One",
+      "Warlock Fiend"
+    ],
+    "multi": [
+      "Arcane Trickster",
+      "Monk Shadow",
+      "Monk Open Hand",
+      "Eldritch Knight"
+    ]
   }
+}
+
   

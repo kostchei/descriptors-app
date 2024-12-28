@@ -1,71 +1,71 @@
 [
     {
       "plane": "Abyss",
-      "possibleAlignments": ["Chaotic Evil"]
+      "alignment": ["Chaotic Evil"]
     },
     {
       "plane": "Acheron",
-      "possibleAlignments": ["Lawful Evil", "Lawful Neutral"]
+      "alignment": ["Lawful Evil Lawful Neutral"]
     },
     {
       "plane": "Arborea",
-      "possibleAlignments": ["Chaotic Good"]
+      "alignment": ["Chaotic Good"]
     },
     {
       "plane": "Arcadia",
-      "possibleAlignments": ["Lawful Good", "Lawful Neutral"]
+      "alignment": ["Lawful Good Lawful Neutral"]
     },
     {
       "plane": "Beastlands",
-      "possibleAlignments": ["Chaotic Good", "Neutral Good"]
+      "alignment": ["Chaotic Good Neutral Good"]
     },
     {
       "plane": "Bytopia",
-      "possibleAlignments": ["Lawful Good", "Neutral Good"]
+      "alignment": ["Lawful Good Neutral Good"]
     },
     {
       "plane": "Carceri",
-      "possibleAlignments": ["Chaotic Evil", "Neutral Evil"]
+      "alignment": ["Chaotic Evil Neutral Evil"]
     },
     {
       "plane": "Elysium",
-      "possibleAlignments": ["Neutral Good"]
+      "alignment": ["Neutral Good"]
     },
     {
       "plane": "Gehenna",
-      "possibleAlignments": ["Lawful Evil", "Neutral Evil"]
+      "alignment": ["Lawful Evil Neutral Evil"]
     },
     {
       "plane": "Hades",
-      "possibleAlignments": ["Neutral Evil"]
+      "alignment": ["Neutral Evil"]
     },
     {
       "plane": "Limbo",
-      "possibleAlignments": ["Chaotic Neutral"]
+      "alignment": ["Chaotic Neutral"]
     },
     {
       "plane": "Mechanus",
-      "possibleAlignments": ["Lawful Neutral"]
+      "alignment": ["Lawful Neutral"]
     },
     {
       "plane": "Mount Celestia",
-      "possibleAlignments": ["Lawful Good"]
+      "alignment": ["Lawful Good"]
     },
     {
       "plane": "Nine Hells",
-      "possibleAlignments": ["Lawful Evil"]
+      "alignment": ["Lawful Evil"]
     },
     {
       "plane": "Outlands",
-      "possibleAlignments": ["Neutral"]
+      "alignment": ["Neutral"]
     },
     {
       "plane": "Pandemonium",
-      "possibleAlignments": ["Chaotic Evil", "Chaotic Neutral"]
+      "alignment": ["Chaotic Evil Chaotic Neutral"]
     },
     {
       "plane": "Ysgard",
-      "possibleAlignments": ["Chaotic Good", "Chaotic Neutral"]
+      "alignment": ["Chaotic Good Chaotic Neutral"]
     }
   ]
   

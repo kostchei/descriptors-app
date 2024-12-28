@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>D&D NPC Generator (JSON-based)</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>D&D NPC Generator</h1>
+
+  <p>Select an NPC type:</p>
+  <div class="radio-group">
+    <label>
+      <input type="radio" name="npcType" value="bastionLeaders" checked>
+      Settlement Leader / Friendly
+    </label>
+    <label>
+      <input type="radio" name="npcType" value="questGiversFriendly">
+      Quest Giver / Neutral
+    </label>
+    <label>
+      <input type="radio" name="npcType" value="enemiesEncounters">
+      Enemy / Encounter
+    </label>
+  </div>
+
+  <button id="generateBtn">Generate NPC</button>
+
+  <h2>Result</h2>
+  <pre id="output"></pre>
+
+  <script src="app.js"></script>
+</body>
+</html>

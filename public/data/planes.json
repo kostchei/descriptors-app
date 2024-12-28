@@ -1,0 +1,71 @@
+[
+    {
+      "plane": "Abyss",
+      "alignment": ["Chaotic Evil"]
+    },
+    {
+      "plane": "Acheron",
+      "alignment": ["Lawful Evil Lawful Neutral"]
+    },
+    {
+      "plane": "Arborea",
+      "alignment": ["Chaotic Good"]
+    },
+    {
+      "plane": "Arcadia",
+      "alignment": ["Lawful Good Lawful Neutral"]
+    },
+    {
+      "plane": "Beastlands",
+      "alignment": ["Chaotic Good Neutral Good"]
+    },
+    {
+      "plane": "Bytopia",
+      "alignment": ["Lawful Good Neutral Good"]
+    },
+    {
+      "plane": "Carceri",
+      "alignment": ["Chaotic Evil Neutral Evil"]
+    },
+    {
+      "plane": "Elysium",
+      "alignment": ["Neutral Good"]
+    },
+    {
+      "plane": "Gehenna",
+      "alignment": ["Lawful Evil Neutral Evil"]
+    },
+    {
+      "plane": "Hades",
+      "alignment": ["Neutral Evil"]
+    },
+    {
+      "plane": "Limbo",
+      "alignment": ["Chaotic Neutral"]
+    },
+    {
+      "plane": "Mechanus",
+      "alignment": ["Lawful Neutral"]
+    },
+    {
+      "plane": "Mount Celestia",
+      "alignment": ["Lawful Good"]
+    },
+    {
+      "plane": "Nine Hells",
+      "alignment": ["Lawful Evil"]
+    },
+    {
+      "plane": "Outlands",
+      "alignment": ["Neutral"]
+    },
+    {
+      "plane": "Pandemonium",
+      "alignment": ["Chaotic Evil Chaotic Neutral"]
+    },
+    {
+      "plane": "Ysgard",
+      "alignment": ["Chaotic Good Chaotic Neutral"]
+    }
+  ]
+  

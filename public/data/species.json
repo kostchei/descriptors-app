@@ -1,0 +1,31 @@
+{
+    "human": 50,
+    "dwarf": 10,
+    "orc": 10,
+    "halfling": 10,
+    "phbSpellcasters": [
+      "goliath",
+      "tiefling",
+      "aasimar",
+      "elf-wood",
+      "elf-drow",
+      "elf-high",
+      "dragonborn",
+      "gnome"
+    ],
+    "phbSpellcastersPercent": 10,
+    "weirdShapechanged": [
+      "dragon (shapechanged)",
+      "quaggoth/gorger",
+      "goblin",
+      "skaven",
+      "lycanthrope",
+      "doppleganger",
+      "centaur",
+      "lizardman",
+      "slann",
+      "chameleon-skink"
+    ],
+    "weirdShapechangedPercent": 10
+  }
+  

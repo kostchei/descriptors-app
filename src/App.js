@@ -276,13 +276,13 @@ function randomFromArray(arr) {
   return arr[idx];
 }
 
-function randomPopFromArray(arr) {
+/*function randomPopFromArray(arr) {
   if (!arr || arr.length === 0) return null;
   const idx = Math.floor(Math.random() * arr.length);
   const item = arr[idx];
   arr.splice(idx, 1);
   return item;
-}
+} */
 
 /******************************************************
  * DOM Helpers
